@@ -168,7 +168,103 @@ public class Main {
 
         System.out.println(numeroStr);
 
-        
+        //Scrivi un programma Java che calcola la somma di due numeri interi e stampa il risultato.
+
+
+        int num=23;
+        int num2=27;
+        int num3=num+num2;
+
+        System.out.println(num3);
+
+
+        //Scrivi un programma Java che calcola la differenza tra due numeri decimali e stampa il risultato.
+
+        int n=254;
+        int a=25;
+
+        int differenza=n-a;
+
+        System.out.println(differenza);
+
+
+        //Scrivi un programma Java che calcola il prodotto di tre numeri interi e stampa il risultato.
+
+        int nume=26;
+        int nu=24;
+
+        int prodotto=nume * nu;
+
+        System.out.println(prodotto);
+
+        //divisione;
+
+        int divi=25;
+
+        int sione=26;
+
+        int divisione=divi / sione;
+
+        System.out.println(divisione);
+
+
+
+        //Scrivi un programma Java che calcola la potenza di un numero intero e stampa il risultato.
+
+
+        double po=23;
+
+        double tenza=25;
+
+        double potenza=Math.pow(po,tenza);
+
+        System.out.println(potenza); //per usare int bisogna fare il cast potenza=(int) Math.pow(po.tenza);
+
+        //Scrivi un programma Java che calcola la radice quadrata di un numero decimale e stampa il risultato.
+
+
+        double ra=Math.sqrt(27.8);
+        System.out.println(ra);
+
+
+        //Scrivi un programma Java che trova il valore massimo tra due numeri interi e stampa il risultato.
+
+
+        int ma=25;
+
+        int ssimo=258;
+
+        int risultato=Math.max(ma,ssimo);
+
+        System.out.println(risultato);
+
+
+
+        //Scrivi un programma Java che trova il valore minimo tra tre numeri decimali e stampa il risultato
+
+
+
+        int m=23;
+        int inimo=24;
+
+        int minimo=Math.min(m,inimo);
+
+        System.out.println(minimo);
+
+
+        //Scrivi un programma Java che genera un numero casuale compreso tra 1 e 100 e stampa il risultato.
+
+        double numo=Math.random();
+
+
+
+
+
+
+
+
+
+
 
 
     }
