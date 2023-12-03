@@ -254,7 +254,18 @@ public class Main {
 
         //Scrivi un programma Java che genera un numero casuale compreso tra 1 e 100 e stampa il risultato.
 
-        double numo=Math.random();
+        int numo=(int) (Math.random() * 100) + 1;//per generare un numero casuale da uno a cento;
+
+        System.out.println(numo);
+
+
+
+
+
+
+
+
+
 
 
 
